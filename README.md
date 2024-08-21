@@ -6,6 +6,7 @@ MATLAB codes I made during my research. Mostly, frequency modulation (FM) and fa
 FM modulation core based on MATLAB code by [Sarita Singh](https://github.com/sritasngh).
 
 ### Features
+-  Dummy gadgets like separating multichannel audios into mono audios, batch reading file names etc.
 -  Quick audio figure tool with waveform, spectrogram and FFT
 -  Making sine-wave AM and FM audio clips
 -  (For marmoset audio research) Getting a vocal call's F0, find polyfit function, and create call-like FM matrix based on the generated F0 polyfit function.

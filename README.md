@@ -1,4 +1,4 @@
-Misc Matlab Audio Tools
+Misc MATLAB Audio Tools
 =====
 ### What are these
 MATLAB codes I made during my research. Mostly, frequency modulation (FM) and fast Fourier transformation (FFT) tools made to use without MATLAB's Audio Toolbox.
